@@ -20,7 +20,7 @@
  
  
 
-### 业务异常code描述（Request Message）
+### 消息体内状态码code描述（http header 状态码 200）
 code|message|描述
 --|--|--
 0|Success|成功
@@ -40,7 +40,7 @@ code|message|描述
 -897|VerifyCodeTimeOut|验证码超时
 -896|AccountFreezing|账户冻结无法操作
 
-### 请求异常code描述（Response Message）
+### 异常code描述（http header 状态码）
 code|message|描述
 --|--|--
 200|OK|成功
