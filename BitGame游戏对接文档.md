@@ -12,13 +12,14 @@
  接口名称   |   查看
  -- |  --
  1.app认证|[点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/app%e8%ae%a4%e8%af%81.md)
- 2.验证交易所账户|[点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E9%AA%8C%E8%AF%81%E4%BA%A4%E6%98%93%E6%89%80%E8%B4%A6%E6%88%B7.md)
+ 2.检测交易所账户|[点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E6%A3%80%E6%B5%8B%E4%BA%A4%E6%98%93%E6%89%80%E8%B4%A6%E6%88%B7.md)
  3.发送验证码   | [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E5%8F%91%E9%80%81%E9%AA%8C%E8%AF%81%E7%A0%81.md)
  4.绑定交易所账户   |   [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E7%BB%91%E5%AE%9A%E4%BA%A4%E6%98%93%E6%89%80%E8%B4%A6%E6%88%B7.md)
- 5.提取代币 |   [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E6%8F%90%E5%8F%96%E4%BB%A3%E5%B8%81.md)
- 6.充值代币到应用   |   [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E5%85%85%E5%80%BC%E4%BB%A3%E5%B8%81%E5%88%B0%E5%BA%94%E7%94%A8.md)
- 7.查询用户订单历史   | [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E6%9F%A5%E8%AF%A2%E7%94%A8%E6%88%B7%E8%AE%A2%E5%8D%95%E5%8E%86%E5%8F%B2.md)
- 8.用户消耗代币   | [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E7%94%A8%E6%88%B7%E6%B6%88%E8%80%97%E4%BB%A3%E5%B8%81.md)
+ 5.解除绑定关系   |   [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E8%A7%A3%E9%99%A4%E7%BB%91%E5%AE%9A%E5%85%B3%E7%B3%BB.md)
+ 6.提取代币 |   [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E6%8F%90%E5%8F%96%E4%BB%A3%E5%B8%81.md)
+ 7.充值代币到应用   |   [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E5%85%85%E5%80%BC%E4%BB%A3%E5%B8%81%E5%88%B0%E5%BA%94%E7%94%A8.md)
+ 8.查询用户订单历史(非必接)   | [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E6%9F%A5%E8%AF%A2%E7%94%A8%E6%88%B7%E8%AE%A2%E5%8D%95%E5%8E%86%E5%8F%B2.md)
+ 9.用户消耗代币(非必接)   | [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E7%94%A8%E6%88%B7%E6%B6%88%E8%80%97%E4%BB%A3%E5%B8%81.md)
  
  
 
