@@ -12,8 +12,8 @@ openAPI基于oauth2提供安全的接口服务。app必须通过认证拿到toke
 ### 调用方法
 
 ``` 
-Url:            https://api.bit.game/api/oauth/token
-Method:         POST
+Url(测试):  https://open.bitgamex.org/api/oauth/token
+Method:     POST
 
 ```
 ### headers
@@ -37,7 +37,7 @@ Authorization:  Basic base64Encode(client_id:client_secret)
  #### Request
   ```
  
-https://api.bit.game/api/oauth/token?grant_type=client_credentials
+https://open.bitgamex.org/api/oauth/token?grant_type=client_credentials
 
   ```
   
