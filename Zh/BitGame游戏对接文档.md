@@ -13,7 +13,7 @@
  -- |  --
  1.app认证|[点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/app%e8%ae%a4%e8%af%81.md)
  2.检测交易所账户|[点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E6%A3%80%E6%B5%8B%E4%BA%A4%E6%98%93%E6%89%80%E8%B4%A6%E6%88%B7.md)
- 3.发送验证码   | [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E5%8F%91%E9%80%81%E9%AA%8C%E8%AF%81%E7%A0%81.md)
+ 3.发送验证码（已作废）   | [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E5%8F%91%E9%80%81%E9%AA%8C%E8%AF%81%E7%A0%81.md)
  4.绑定交易所账户   |   [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E7%BB%91%E5%AE%9A%E4%BA%A4%E6%98%93%E6%89%80%E8%B4%A6%E6%88%B7.md)
  5.解除绑定关系   |   [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E8%A7%A3%E9%99%A4%E7%BB%91%E5%AE%9A%E5%85%B3%E7%B3%BB.md)
  6.提取代币 |   [点击查看](https://github.com/BitGameEN/OpenAPI/blob/master/%E6%8F%90%E5%8F%96%E4%BB%A3%E5%B8%81.md)
@@ -42,6 +42,16 @@ code|message|描述
 -898|NotBindError|游戏用户与交易所账户不是绑定关系
 -897|VerifyCodeTimeOut|验证码超时
 -896|AccountFreezing|账户冻结无法操作
+-895|VerifyCode Fail|验证码错误
+-894|UserNotExist|游戏中心用户不存在
+-893|Token Symbol Error|代币类型
+-892|Amount Error|金额不合法
+-891|Order Processing|订单处理中
+-890|Order Fail|订单已失败
+-889|Bind BitAccount Error|绑定失败
+-888|Please untie it first|请先解除绑定
+-887|Google code fail|GoogleCode验证失败
+-886|Google code not bind|Google验证器未绑定
 
 ### 异常code描述（http header 状态码）
 code|message|描述
